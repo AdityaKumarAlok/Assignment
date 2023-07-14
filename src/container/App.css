@@ -1,0 +1,17 @@
+
+  h1 {
+    font-family: 'SEGA LOGO FONT';
+    font-weight: 200;
+    color: #0ccac4;
+  }
+
+  .card{
+    width: 18rem;
+  }
+  
+  .body{
+  background-color: #0ccac4;  
+  }
+  .card-title{
+    text-align: center;
+  }
