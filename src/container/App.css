@@ -7,6 +7,8 @@
 
   .card{
     width: 18rem;
+    padding: 2rem;
+    margin: 2rem;
   }
   
   .body{
@@ -14,4 +16,9 @@
   }
   .card-title{
     text-align: center;
+  }
+
+  .search_box{
+    text-align: center;
+    padding: 2rem;
   }
